@@ -56,12 +56,12 @@ nav ul li a.active {
 section.sec1 {
   width: 100%;
   height: 100vh;
-  background: url('/image/ice.jpg');
+  background: url(/image/ice.jpg);
   background-size: cover;
   background-position: center;
 }
-#hero {
-  background-image: url('/image/ice.jpg');
+.hero {
+  background-image: url(/image/ice.jpg);
   background-size: cover;
   background-position: center;
   position: relative;

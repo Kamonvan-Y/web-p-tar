@@ -65,7 +65,7 @@ section.sec1 {
   background-size: cover;
   background-position: center;
 }
-#hero {
+.hero {
   background-image: url('/image/ice.jpg');
   background-size: cover;
   background-position: center;
